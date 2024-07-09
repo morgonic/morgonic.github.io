@@ -2,7 +2,7 @@ export const links = [
 	{ 
 		name: "Twitter", 
 		link: 
-"https://twitter.com/geeksforgeeks", 
+"mailto:user@example.com?subject=Subject&body=Your%20message%20goes%20here", 
 		image: 
 "https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png", 
 	}, 
