@@ -1,58 +1,9 @@
 export const links = [ 
 	{ 
-		name: "Twitter", 
+		name: "Create E-Mail for reporting The Heritage Foundation.", 
 		link: 
-"mailto:user@example.com?subject=Subject&body=Your%20message%20goes%20here", 
+"mailto:eoclass@irs.gov?subject=13909%20for%20The%20Heritage%20Foundation&body=I%20have%20attached%20the%2013909%20form%20in%20order%20to%20report%20The%20Heritage%20Foundation%20for%falsley%20claiming%20tax%20exemption%20status.", 
 		image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png", 
-	}, 
-	{ 
-		name: "Linkedin", 
-		link: 
-"https://www.linkedin.com/company/geeksforgeeks/", 
-		image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png", 
-	}, 
-	{ 
-		name: "Instagram", 
-		link: 
-"https://www.instagram.com/geeks_for_geeks/?hl=en", 
-		image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png", 
-	}, 
-	{ 
-		name: "E-mail", 
-		link: 
-"mailto:feedback@geeksforgeeks.org", 
-		image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png", 
-	}, 
-	{ 
-		name: "Telegram", 
-		link: 
-"https://t.me/geeksforgeeks_official", 
-		image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png", 
-	}, 
-	{ 
-		name: "YouTube", 
-		link: 
-"https://www.youtube.com/@GeeksforGeeksVideos/featured", 
-		image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png", 
-	}, 
-	{ 
-		name: "Discord", 
-		link: 
-"https://discord.com/invite/HvJvpjz27z", 
-		image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png", 
-	}, 
-	{ 
-		name: "Facebook", 
-		link: 
-"https://www.facebook.com/geeksforgeeks.org/", 
-		image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png", 
-	}, 
+"https://cdn4.iconfinder.com/data/icons/mail-1-1/1024/report_mail-512.png", 
+	}
 ];
