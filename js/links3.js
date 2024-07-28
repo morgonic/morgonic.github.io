@@ -2,7 +2,7 @@ export const links = [
  	{ 
 		name: "HERITAGE FOUNDATION COMPLETED FORM 13909", 
 		link: 
-"https://drive.google.com/file/d/11ox6BbRjSxkdgKd5Up3aSuJDHQLhuDh1/view?usp=sharing", 
+"https://drive.google.com/file/d/1LzUHhU9uDz8ZQKiIK6oBgWwA3iyn8uGM/view?usp=sharing", 
 		image: 
 "https://www.irs.gov/pub/xml_bc/53478001.gif", 
 	},
