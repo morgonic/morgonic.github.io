@@ -1,5 +1,12 @@
 export const links = [ 
 	{ 
+		name: "INSTRUCTIONAL VIDEO", 
+		link: 
+"https://www.tiktok.com/@morgonic.music/video/7390647766441086250",
+		image: 
+"https://i.pinimg.com/736x/23/eb/b0/23ebb0f40529755b005ee3a9f15d31a5.jpg", 
+	},
+	{ 
 		name: "CONTACT THE WHITE HOUSE ABOUT THE IRS", 
 		link: 
 "https://www.whitehouse.gov/contact/request/",
